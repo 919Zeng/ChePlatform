@@ -1,0 +1,29 @@
+/* ============·ÖÀàÁÐ±í============== */
+
+div.productclass_dolphin{
+    margin:0px;
+    padding:8px 0px 20px 20px;
+}
+
+a.productclass_dolphin:link,a.productclass_dolphin:visited,a.productclass_dolphin:active{
+    display:block;
+    text-decoration: none;
+    font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+    height:26px;
+    text-align:left;
+    background:url(http://bm178d.com/product/templates/images/dot2.jpg) 5px 5px no-repeat;
+    padding-left:39px;
+    margin:0px;
+    color:#181818;
+}
+
+a.productclass_dolphin:hover{
+    display:block;
+    color:#e10000;
+    text-decoration: none;
+    background:url(http://bm178d.com/product/templates/images/dot2now.jpg) 0px 0px no-repeat;
+    font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+

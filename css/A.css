@@ -1,0 +1,39 @@
+#menumain{
+    margin:0;
+    white-space:nowrap;
+    overflow:hidden;
+    height:38px;
+}
+
+#menumain .mainmenuiner {
+    height:38px;
+    padding:0;
+    line-height:38px;
+    overflow: hidden;
+    margin:0px;
+}
+
+#menumain a.menumain:link,#menumain a.menumain:active,#menumain a.menumain:visited{
+    display:block;
+    float:left;
+    height:38px;
+    text-decoration: none;
+    text-align:center;
+    width:80px;
+    color:#fff;
+    font:14px/43px 'SimSun',Arial,Sans-Serif;
+    margin:0px;
+}
+
+#menumain a.menumain:hover{
+    display:block;
+    float:left;
+    height:38px;
+    color:#fff;
+    text-decoration: none;
+    text-align:center;
+    width:80px;
+    margin:0px;
+    background: url('http://bm178d.com/menu/templates/images/mainmenu_dolphin/menunow.jpg') 0px 0px no-repeat;
+    font:14px/40px 'SimSun',Arial,Sans-Serif;
+}
